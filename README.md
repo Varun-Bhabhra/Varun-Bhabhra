@@ -1,7 +1,5 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
   <samp>
 I'm Varun. A freelance Web Designer & Developer from Kolkata, India. I design and develop websites and landing pages for startups and enterprises.
      <br><br>Contact me on <a href="https://twitter.com/vbhabhra">Twitter</a> or <a href="mailto:bhabhravarun@gmail.com">Send an Email</a>
