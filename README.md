@@ -5,7 +5,7 @@ I'm Varun. A freelance Web Designer & Developer from Kolkata, India. I design an
      <br><br>Contact me on <a href="https://twitter.com/vbhabhra">Twitter</a> or <a href="mailto:bhabhravarun@gmail.com">Send an Email</a>
   </samp>
 <br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=surjithctly.surjithctly" alt="Visitors Counter">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Varun-Bhabhra" alt="Visitors Counter">
 </p>
 
 <!--
